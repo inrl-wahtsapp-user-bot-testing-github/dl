@@ -1,6 +1,7 @@
 {
   "name": "inrl-bot-md",
-  "version": "1.7.2",
+  "version": "1.7.3",
+  "main": "index.js",
   "description": "why bitch emdi dlx cores with youtubei",
   "author": "inrl",
   "dependencies": {

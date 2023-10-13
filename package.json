@@ -6,6 +6,6 @@
   "dependencies": {
     "youtubei.js": "^6.3.0",
     "yt-search":"^2.10.4",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.1-security"
   }
 }

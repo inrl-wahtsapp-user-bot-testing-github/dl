@@ -1,13 +1,11 @@
 {
   "name": "inrl-bot-md",
-  "version": "1.6.8",
+  "version": "1.7.0",
   "description": "why bitch emdi dlx cores with youtubei",
   "author": "inrl",
   "dependencies": {
     "youtubei.js": "^6.3.0",
     "yt-search":"^2.10.4",
-    "axios": "^0.27.2",
-    "form-data": "^4.0.0",
-    "cheerio": "^1.0.0-rc.10"
+    "check-word":"^1.1.0"
   }
 }

@@ -1,4 +1,8 @@
 const languageRegex = require(`./en.js`);
 module.exports = function check(word) {
-    return languageRegex.test(word)
+    let regex = new RegExp('\n' + word +'\n');
+            if (languageRegex.match(regex)) {
+                return true;
+            }
+    return false;
 };
